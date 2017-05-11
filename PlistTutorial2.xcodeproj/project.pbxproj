@@ -15,6 +15,7 @@
 		40D6E8E21EC4DA0B00928681 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40D6E8E01EC4DA0B00928681 /* LaunchScreen.storyboard */; };
 		40D6E8ED1EC4DA0C00928681 /* PlistTutorial2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D6E8EC1EC4DA0C00928681 /* PlistTutorial2Tests.swift */; };
 		40D6E8F81EC4DA0C00928681 /* PlistTutorial2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D6E8F71EC4DA0C00928681 /* PlistTutorial2UITests.swift */; };
+		40D6E9061EC4DA3A00928681 /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 40D6E9051EC4DA3A00928681 /* data.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		40D6E8F31EC4DA0C00928681 /* PlistTutorial2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlistTutorial2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		40D6E8F71EC4DA0C00928681 /* PlistTutorial2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlistTutorial2UITests.swift; sourceTree = "<group>"; };
 		40D6E8F91EC4DA0C00928681 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40D6E9051EC4DA3A00928681 /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				40D6E8E01EC4DA0B00928681 /* LaunchScreen.storyboard */,
 				40D6E8E31EC4DA0B00928681 /* Info.plist */,
 				40D6E8DB1EC4DA0B00928681 /* PlistTutorial2.xcdatamodeld */,
+				40D6E9051EC4DA3A00928681 /* data.plist */,
 			);
 			path = PlistTutorial2;
 			sourceTree = "<group>";
@@ -237,6 +240,7 @@
 			files = (
 				40D6E8E21EC4DA0B00928681 /* LaunchScreen.storyboard in Resources */,
 				40D6E8DF1EC4DA0B00928681 /* Assets.xcassets in Resources */,
+				40D6E9061EC4DA3A00928681 /* data.plist in Resources */,
 				40D6E8DA1EC4DA0B00928681 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
